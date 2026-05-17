@@ -16,6 +16,18 @@ The goal of Velix is to simplify animation pipeline workflows by giving artists 
 •  Rigs
 
 •  Environments
+Additional Features
+• Save Assets from different maya scenes
+
+• Display thumbnails/previews
+
+• Letting users import reference assets into a scene
+
+• Organize the assets by type
+
+• Allowing the user to update the asset whenever
+
+• Export assests option
 
 # Documentation
 Documentation will include
