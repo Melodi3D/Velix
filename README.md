@@ -3,13 +3,20 @@ Velix is a Maya-based pipeline tool designed to streamline asset management, sce
 
 The goal of Velix is to simplify animation pipeline workflows by giving artists and Technical Directors a centralized system for managing, organizing, publishing, and importing assets across production scenes.
 # Features
-Designed to be easy to use
+• Designed to be easy to use
 
-• easy to 
+• Stores different assests from scenes
 
-• easy to 
+• Assets you can store (for now)
 
-• easy to 
+•  Characters
+
+•  Props
+
+•  Rigs
+
+•  Environments
+
 # Documentation
 Documentation will include
 
