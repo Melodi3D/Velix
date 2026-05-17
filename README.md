@@ -3,8 +3,11 @@ Velix is a Maya-based pipeline tool designed to streamline asset management, sce
 # Features
 
 Designed to be
+
 • easy to 
+
 • easy to 
+
 • easy to 
 # Documentation
 Documentation will include
