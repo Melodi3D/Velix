@@ -7,7 +7,7 @@ The goal of Velix is to simplify animation pipeline workflows by giving artists 
 
 • Stores different assests from scenes
 
-• Assets you can store (for now)
+ Assets you can store (for now)
 
 •  Characters
 
