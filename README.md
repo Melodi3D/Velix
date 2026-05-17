@@ -8,6 +8,9 @@ Designed to be
 • easy to 
 # Documentation
 Documentation will include
+
 • Installation Guide
+
 • How to Use
+
 • Planned Updates
