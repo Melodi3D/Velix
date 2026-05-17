@@ -10,13 +10,12 @@ The goal of Velix is to simplify animation pipeline workflows by giving artists 
  Assets you can store (for now)
 
 •  Characters
-
 •  Props
-
 •  Rigs
-
 •  Environments
-Additional Features
+
+ Additional Features
+
 • Save Assets from different maya scenes
 
 • Display thumbnails/previews
