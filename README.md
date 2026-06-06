@@ -29,7 +29,7 @@ The goal of Velix is to simplify animation pipeline workflows by giving artists 
 
 • Allowing the user to update the asset whenever
 
-• Export assests option
+• Export assets option
 
 # Documentation
 Documentation will include
