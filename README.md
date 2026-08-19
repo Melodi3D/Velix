@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/velix_icon.png" width="250" alt="Velix Logo">
+  <img src="images/velixicon.png" width="250" alt="Velix Logo">
 </p>
 
 # Velix Pipeline 
