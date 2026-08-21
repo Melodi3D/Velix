@@ -2,7 +2,7 @@
   <img src="images/velixicon.png" width="250" alt="Velix Logo">
 </p>
 
-# Velix Pipeline 
+# Velix Tool 
 Velix is a Maya-based pipeline tool currently in development. Velix is designed to streamline asset management, scene assembly, and version control for animation workflows. Built for technical directors and artists, Velix helps organize, publish, and import production assets efficiently across multiple scenes and projects.
 # Why Velix?
 The goal of Velix is to simplify animation pipeline workflows by giving artists and Technical Directors a centralized system for managing, organizing, publishing, and importing assets across production scenes.
