@@ -3,7 +3,7 @@
 </p>
 
 # Velix Tool 
-Velix is a Maya-based pipeline tool currently in development. Velix is designed to streamline asset management, scene assembly, and version control for animation workflows. Built for technical directors and artists, Velix helps organize, publish, and import production assets efficiently across multiple scenes and projects.
+Velix is a Maya-based pipeline tool currently in development. Velix is designed to assist with asset management, scene assembly, and version control for animation workflows. Built for technical directors and artists, Velix helps organize, publish, and import production assets efficiently across multiple scenes and projects.
 # Software Used
 Autodesk Maya 2025 • Python • PySide6 • Qt Designer • Adobe Photoshop
 # Why Velix?
