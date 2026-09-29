@@ -46,4 +46,4 @@ Documentation will include
 
 • Planned Updates
 
-@ 2026 Melodi Clark
+© 2026 Melodi Clark
